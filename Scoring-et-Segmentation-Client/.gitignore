@@ -1,0 +1,19 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les fichiers Python compilés
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+*.bak
+
+# Ignorer les dossiers spécifiques aux éditeurs
+.vscode/
+.idea/
+
+# Ignorer les checkpoints de Jupyter
+.ipynb_checkpoints/
